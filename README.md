@@ -1,4 +1,8 @@
 # Tableau User Story: Sales Performance Dashboards 
+
+## Check out the dashboard on tableau:
+## https://public.tableau.com/views/SalesDashboadProject_17510342338690/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 🔍 Introduction
 This user story outlines the specifications and design approach for building two Tableau dashboards aimed at helping stakeholders—such as sales managers, marketing teams, and executives—analyze overall sales performance and customer behavior. The dashboards are designed to be interactive, visually intuitive, and valuable for strategic decision-making.
 
